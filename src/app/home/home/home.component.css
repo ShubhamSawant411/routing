@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+    /* padding-top: 5rem; */
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100vh;
+}
+p{
+    margin: 2rem;
+    text-align: justify;
+}
